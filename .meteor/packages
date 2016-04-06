@@ -7,4 +7,5 @@
 meteor-base
 blaze-html-templates
 session
-standard-minifiers
+standard-minifier-css
+standard-minifier-js
